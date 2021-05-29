@@ -1,5 +1,5 @@
 # Mario-Matrix-keyboard-game
-This program create a simple game where you can punch a figure using a matrix keaboard to control the movement and punch.
+This program create a simple game where you can punch a figure (in this case Mario) using a matrix keaboard to control the movement and punch.
 # HOW TO PLAY?!
 To define keys of the matrix keyboard in the game are the following:
 2 -> move up
